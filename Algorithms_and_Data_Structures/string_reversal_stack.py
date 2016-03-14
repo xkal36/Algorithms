@@ -1,3 +1,8 @@
+"""
+Reversing a string using the Stack data structure.
+O(n) running time.
+"""
+
 from test import testEqual
 from pythonds.basic.stack import Stack
 
