@@ -31,9 +31,3 @@ class Stack(Object):
 
      def size(self):
          return len(self.items)
-
-
-
-
-
-
