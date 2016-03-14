@@ -15,8 +15,6 @@ def reverse_string(s):
         return s[-1] + reverse_string(s[:-1])
 
 
-
-
 # Checks using recursion if a
 # string is a palindrome or not
 def is_palindrome(s, is_equal=True):
