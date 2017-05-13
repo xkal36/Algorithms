@@ -11,17 +11,16 @@ def sequential_search_while(alist, item):
 			pos += 1
 	return found
 
-# Sequential serach using python's for loop construct:
+# Sequential search using python's for loop construct:
 def sequential_serach_for(alist, item):
 	for el in alist:
 		if el == item:
 			return True
 	return False
 
-# Sequential serach using python's range function:
+# Sequential search using python's range function:
 def sequential_serach_generic(alist, item):
 	for i in range(len(alist)):
 		if alist[i] == item:
 			return True
 	return False
-
