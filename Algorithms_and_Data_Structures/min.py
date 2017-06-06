@@ -2,8 +2,8 @@
 Write two Python functions to find the 
 minimum number in a list.
 The first function should compare 
-each number to every other number on the list ie O(n). 
-The second function should be linear O(n)O(n).
+each number to every other number in the list ie O(n). 
+The second function should be linear ie O(n).
 """
 
 __author__ = 'awinterbotham'
